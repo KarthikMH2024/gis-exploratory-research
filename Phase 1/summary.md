@@ -66,4 +66,13 @@ It’s not just that vector representation is object-based, and raster represent
 
 ## 5. Transition Toward Mathematical Formalization
 
-After having established phase 1, this helps in providing an outline of some basic terminologies commonly used in GIS. Now, after these concepts, I plan to move towards the next phase of the repository. The next objectives include understanding the right methods involved and incorporating change to make it novel and innovative. I plan to understand Spatial relations, Representing Weighted edges in Network graphs, Distance-based interactions, and spatial optimizations.
+With Phase 1 established, the foundational terminology and conceptual structure of GIS are defined.
+
+The next phase of the repository will focus on methodological and mathematical development. The objectives include:
+
+- Understanding formal spatial relations
+- Representing weighted edges in network graphs
+- Modelling distance-based interactions
+- Exploring spatial optimization techniques
+
+The goal is to transition from conceptual understanding to structured analytical frameworks, incorporating methodological rigor and potential innovation.
