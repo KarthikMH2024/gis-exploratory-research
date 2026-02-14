@@ -1,1 +1,7 @@
+Theoretical Insight You Should Note
 
+Vector = Object-based representation of space
+
+Raster = Field-based representation of space
+
+This distinction is fundamental in GIS theory and will directly influence how your novel model is structured later.
