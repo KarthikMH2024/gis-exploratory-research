@@ -63,6 +63,7 @@ Unlike vectors, rasters do not focus on boundaries or paths. Instead, they focus
 ## Conceptual Distinction
 
 The fundamental difference can be summarized as:
+![Vector vs Raster](images/vector_raster_comparison.png)
 
 - **Vector → Object-based spatial representation**
 - **Raster → Field-based spatial representation**
